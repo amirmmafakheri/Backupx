@@ -87,4 +87,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-Developed by [Your Name]. Contributions and feedback are welcome!
+Developed by eMtwo. Contributions and feedback are welcome!
